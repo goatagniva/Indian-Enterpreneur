@@ -3,26 +3,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>15 Indian Entrepreneurs</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      padding: 20px;
-      background-color: #f4f4f4;
-    }
-    h1 {
-      color: #2c3e50;
-    }
-    ul {
-      background: #fff;
-      padding: 20px;
-      border-radius: 8px;
-      list-style-type: none;
-    }
-    li {
-      margin-bottom: 10px;
-    }
-  </style>
+
 </head>
 <body>
   <h1>15 Inspiring Indian Entrepreneurs</h1>
