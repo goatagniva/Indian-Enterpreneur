@@ -74,7 +74,6 @@
   </header>
 
   <div class="container">
-    <!-- Each card below is fully functional -->
     <div class="card">
       <h2><a href="https://www.biocon.com" target="_blank">Kiran Mazumdar-Shaw</a></h2>
       <p>Founder of Biocon. A pioneer in biotechnology and a champion for women in science.</p>
@@ -154,4 +153,17 @@
     </div>
 
     <div class="card">
-      <h
+      <h2><a href="https://www.lenskart.com" target="_blank">Peyush Bansal
+<div class="card">
+      <h2><a href="https://www.lenskart.com" target="_blank">Peyush Bansal</a></h2>
+      <p>Founder of Lenskart. Revolutionized eyewear retail with tech and accessibility.</p>
+      <img class="qr" src="https://api.qrserver.com/v1/create-qr-code/?data=https://www.lenskart.com&size=100x100" alt="Lenskart QR">
+    </div>
+  </div>
+
+  <footer>
+    Created by Kanika • Powered by GitHub Pages • © 2025
+  </footer>
+
+</body>
+</html>
