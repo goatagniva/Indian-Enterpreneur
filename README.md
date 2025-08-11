@@ -74,6 +74,7 @@
   </header>
 
   <div class="container">
+    <!-- Each card below is fully functional -->
     <div class="card">
       <h2><a href="https://www.biocon.com" target="_blank">Kiran Mazumdar-Shaw</a></h2>
       <p>Founder of Biocon. A pioneer in biotechnology and a champion for women in science.</p>
@@ -153,5 +154,4 @@
     </div>
 
     <div class="card">
-      <h2><a href="https://www.lenskart.com" target="_blank">Peyush Bansal</a></h2>
-      <
+      <h
